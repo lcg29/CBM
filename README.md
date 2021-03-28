@@ -11,3 +11,14 @@ python = 3.8.5
 <br/> pandas
 <br/> catboost (https://catboost.ai/)
 <br/> pycaret = 2.2.3
+
+
+## Example: CatBoost verifies the effect of improving the input depth parameter
+
+Before revising parameters
+<br/> 
+![image](https://github.com/lcg29/CBM/blob/main/md%20input.png)
+<br/> 
+After revising parameters
+<br/> 
+![image](https://github.com/lcg29/CBM/blob/main/Z%20input.png)
