@@ -16,11 +16,12 @@ python = 3.8.5
 ## Example: CatBoost verifies the effect of improving the input depth parameter
 
 ### Before revising parameters
-[MD as deep parameter]   (URL)  
+![MD as deep parameter](https://github.com/lcg29/CBM/blob/main/CBMgas-md.ipynb)  
 <br/> 
 ![image](https://github.com/lcg29/CBM/blob/main/md%20input.png)
-<br/> 
+<br/> Picture based on CatBoost
 ### After revising parameters
-[Z as deep parameter]   (URL)  
+![Z as deep parameter](https://github.com/lcg29/CBM/blob/main/CBMgas-z.ipynb)  
 <br/> 
 ![image](https://github.com/lcg29/CBM/blob/main/Z%20input.png)
+<br/> Picture based on CatBoost
