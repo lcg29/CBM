@@ -1,7 +1,7 @@
 # CBM-methane content prediction
 ## Revising depth parameters to improve the accuracy of machine learning to predict gas content.
 
-The project is suggested to be run and completed in Jupiter Notebook.
+The project is suggested to be run and completed in Jupyter Notebook.
 <br/> The algorithms for the training model are based on an open source project Pycaret (https://github.com/pycaret/pycaret).
 
 ## Here is the list of libraries you need to install to execute the code.
@@ -11,7 +11,9 @@ python = 3.8.5
 <br/> pandas
 <br/> catboost (https://catboost.ai/)
 <br/> pycaret = 2.2.3
-
+## Input and Output 
+<br/>The input data is in 'data.xlsx'
+<br/>Jupyter is an open source interactive application, and the output of programming is also in *.ipynb.
 
 ## Example: CatBoost verifies the effect of improving the input depth parameter
 
