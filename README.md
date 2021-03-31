@@ -28,3 +28,4 @@ The input data is in 'data.xlsx'
 <br/> 
 ![image](https://github.com/lcg29/CBM/blob/main/Z%20input.png)
 <br/> Picture based on CatBoost
+<br/>The effects of other algorithms are not shown here, but are included in the code.
