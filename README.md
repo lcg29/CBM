@@ -11,9 +11,9 @@ python = 3.8.5
 <br/> six 
 <br/> pandas
 <br/> catboost (https://catboost.ai/)
-<br/> pycaret = 2.3  in this program  
+<br/> pycaret = 2.3  in this program
 <br/> pycaret = 2.2  in published article
-Note that in different versions, the number of decimal places calculated is different, which can lead to different results in the model.
+<br/> Note that in different versions, the number of decimal places calculated is different, which can lead to different results in the model.
 
 ## Input and Output 
 The input data is in 'data.xlsx'
